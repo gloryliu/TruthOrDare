@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TruthOrDareActivity!</string>
+    <string name="app_name">TruthOrDare</string>
+    <string name="btn_start_select_portrait">Start</string>
+    <string name="btn_stop_select_portrait">Stop</string>
+
+</resources>
